@@ -1,0 +1,33 @@
+Image data preprocessing (number of channels, aspect ratio, image scaling, normalization of image data)
+Data augmentation (scaling, rotation, shifting, mirroring)
+Practical example of preprocessing and augmentation
+DNN architectures for Image Processing (convolution, deconvolution, pooling, residual) connections
+Advanced image classification (ImageNet dataset, VGG, ResNet, Inception, MobileNet, Efficient net)
+Practical example of transfer learning using different base models
+Image Segmentation (U-net, Object detection)
+Practical example of image segmentation and object detection
+Generative Adversarial Networks (generative networks, sampling, the adversarial model)
+Practical example of image generation
+Image Noise Reduction
+Practical example of noise reduction using U-net and GANs
+Superresolution (Upsampling, practical example of using GANs for superresolution)
+GAN enhancement of datasets
+Deep fake (Conditional GANs, examples of deep fake techniques)
+Adversarial attacks (image modification, adversarial patch, black box-attacks, cybersecurity)
+
+
+Předzpracování obrazových dat (počet kanálů, rozlišení, scaling, normalizace)
+Augmentace obrazových data setů (scaling, rotation, shifting, mirroring)
+Praktický příklad na předzpracování a augmentaci
+Architektury neuronových sítí pro zpracování obrazu (konvoluce, dekonvoluce, pooling, residual connection)
+Pokročilá klasifikace obrazu (ImageNet dataset, VGG, ResNet, Inception, MobileNet, Efficient net)
+Praktické příklady transfer learningu s různými základními modely
+Segmentace obrazu (U-net, detekce objektů)
+Praktické příklady na segmentace a detekce objektů
+Generativní soupeřící sítě (generativní sítě, sampling, GAN)
+Praktický příklad na generování obrázků
+Odstranění šumu z obrazu pomocí GAN
+Superresolution (Upsampling, praktický příklad na zvýšení rozlišení obrázku pomocí GAN)
+Rozšiřování data setů pomocí generativních sítí
+Deep fake (Conditional GAN, příklady deep fake technik)
+Adversarial attacks (modifikace obrázků, adversarial patch, black box attacks, Cybersecurity)
